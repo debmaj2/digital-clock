@@ -1,5 +1,4 @@
-# digital-clock
-## a digital clock built in  Vanilla JS with auto day mode and night mode.
+# a digital clock built in  Vanilla JS with auto day mode and night mode.
 
 #### the background and font change colours according to your local time.
 
