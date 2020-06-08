@@ -1,0 +1,10 @@
+<html>
+<head>
+  <link href="style.css" type="text/css" rel="stylesheet"/>
+  <link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
+</head>
+<body id='main' style="background-color: #d4d2d4" onload="set_style()">
+    <div id=clock class='clock centered' style="color: #d4d2d4"></div>
+</body>
+<script src="script.js"></script>
+</html>
